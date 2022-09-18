@@ -3,7 +3,7 @@
 
 
 
-// Note and duration for Super Mario melody.
+// Note and duration for Kolej Komuniti melody.
 int melodyPitch[] = {NOTE_B5, 0, NOTE_G5, NOTE_A5, NOTE_B5, 0, NOTE_G5, NOTE_A5, NOTE_B5, 0, NOTE_B5, NOTE_B5, NOTE_DS6, NOTE_DS6, NOTE_B5, NOTE_B5, NOTE_CS6};
 int melodyDuration[] = {4, 16, 8, 4, 4, 16, 8, 4, 4, 8, 4, 8, 4, 8, 4, 8, 2};
 
