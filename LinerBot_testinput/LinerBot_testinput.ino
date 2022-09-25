@@ -12,7 +12,7 @@ void setup() {
   Serial.begin(115200);
   LinerBot.begin();
 
-  // Play the Super Mario melody once.
+  // Play the Kolej Komuniti melody once.
   LinerBot.playMelody(melodyPitch, melodyDuration, 17);
 }
 
