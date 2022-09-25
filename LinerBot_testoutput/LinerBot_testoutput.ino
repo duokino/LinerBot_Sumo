@@ -15,7 +15,7 @@ void setup() {
   // Stop the robot.
   LinerBot.stop();
 
-  // Play the Super Mario melody once.
+  // Play the Kolej Komuniti melody once.
   LinerBot.playMelody(melodyPitch, melodyDuration, 17);
 
   // Wait here until start button is pressed.
