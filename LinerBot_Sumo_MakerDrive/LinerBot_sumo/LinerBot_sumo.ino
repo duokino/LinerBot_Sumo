@@ -28,7 +28,7 @@ int melodyDuration[] = {4, 16, 8, 4, 4, 16, 8, 4, 4, 8, 4, 8, 4, 8, 4, 8, 2};
 void setup() {
   LinerBot.begin();
 
-  // Play the Super Mario melody once.
+  // Play the Kolej Komuniti melody once.
   LinerBot.playMelody(melodyPitch, melodyDuration, 17);
 
   // Wait until start button is pressed and released.
